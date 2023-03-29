@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="mid_gap">32dp</dimen>
+    <dimen name="Big_gap">64dp</dimen>
+    <dimen name="Top_gap">80dp</dimen>
+
+
+    <dimen name="Big_text_size">40sp</dimen>
+    <dimen name="Count_text_size">60sp</dimen>
+
+    <dimen name="image_size">120dp</dimen>
+    <dimen name="small_gap">16dp</dimen>
+</resources>
